@@ -1,5 +1,5 @@
 # Introdução a programação com Linguagem C
 
-IntroduçÕ a programacão - Lista de Exercicios
+Introdução à programacão - Lista de Exercicios - parte A
 
 
