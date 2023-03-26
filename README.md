@@ -55,12 +55,12 @@ dos ingressos por categoria são dados pela tabela abaixo:</h3>
 <h3>Entrada</h3>
 <h3>A entrada contém uma linha inicial com um valor inteiro informando o número de casos de testes que
 ocorrem nas linhas seguintes. Cada caso de teste seguinte é formado por uma linha contendo os seguintes
-valores, separados entre si por um espaço:
-• O número de pessoas que compraram ingresso para o jogo correspondente ao caso de teste.
-• A percentagem de pessoas que compraram ingresso na categoria Popular.
-• A percentagem de pessoas que compraram ingresso na categoria Geral.
-• A percentagem de pessoas que compraram ingresso na categoria Arquibancada.
-• A percentagem de pessoas que compraram ingresso na categoria Cadeiras.</h3>
+valores, separados entre si por um espaço:</h3>
+<h3>• O número de pessoas que compraram ingresso para o jogo correspondente ao caso de teste.</h3>
+<h3>• A percentagem de pessoas que compraram ingresso na categoria Popular.</h3>
+<h3>• A percentagem de pessoas que compraram ingresso na categoria Geral.</h3>
+<h3>• A percentagem de pessoas que compraram ingresso na categoria Arquibancada.</h3>
+<h3>• A percentagem de pessoas que compraram ingresso na categoria Cadeiras.</h3>
 
 <h3>Saída</h3>
 <h3>O programa deve gerar uma linha para cada caso de teste na entrada, contendo a frase: A RENDA DO
