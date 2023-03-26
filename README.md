@@ -21,3 +21,16 @@ medida de uma temperatura em graus Fahrenheit.</h3>
 y CELSIUS, onde x corresponde a um valor de temperatura em Fahrenheit e y corresponde ao valor
 equivalente em graus Celsius. Logo ap ́os a palavra CELSIUS em cada linha de sa ́ıda deve ser impresso o
 caractere de quebra de linha. Os valores de x e y devem ser impressos com duas casas decimais.</h3>
+
+<h3>Exercício 2</h3>
+<h4> Resposta no arquivo GrausFahrenheitParaGrausCelsius.c </h4>
+<h3>Série de Pares
+Escreva um programa para ler uma linha com dois n ́umeros inteiros x e y. O programa deve verificar se x
+é um n ́umero par. Se for, o programa deve imprimir uma sequˆencia de y n ́umeros pares, iniciando com x.
+Se x n ̃ao for par, o programa deve imprimir uma linha com a mensagem: O PRIMEIRO NUMERO NAO
+E PAR.</h3>
+
+<h3>Entrada</h3>
+
+<h3>Saída</h3>
+
