@@ -27,7 +27,7 @@ caractere de quebra de linha. Os valores de x e y devem ser impressos com duas c
 ============================================================================================
 
 <h3>Exercício</h3>
-<h4> Resposta no arquivo SerieDePares.c </h4>
+<h4> Resposta no arquivo QuadradoDePares.c </h4>
 <h3>Série de Pares
 Escreva um programa para ler uma linha com dois n ́umeros inteiros x e y. O programa deve verificar se x
 é um n ́umero par. Se for, o programa deve imprimir uma sequˆencia de y n ́umeros pares, iniciando com x.
