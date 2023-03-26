@@ -22,6 +22,8 @@ y CELSIUS, onde x corresponde a um valor de temperatura em Fahrenheit e y corres
 equivalente em graus Celsius. Logo ap ́os a palavra CELSIUS em cada linha de sa ́ıda deve ser impresso o
 caractere de quebra de linha. Os valores de x e y devem ser impressos com duas casas decimais.</h3>
 
+=========================================================================================================================================================
+
 <h3>Exercício 2</h3>
 <h4> Resposta no arquivo SerieDePares.c </h4>
 <h3>Série de Pares
