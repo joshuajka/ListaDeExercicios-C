@@ -31,6 +31,13 @@ Se x n ̃ao for par, o programa deve imprimir uma linha com a mensagem: O PRIMEI
 E PAR.</h3>
 
 <h3>Entrada</h3>
+<h3>A entrada conter ́a uma linha com dois n ́umeros inteiros separados entre si por um caractere de espa ̧co.
+Ap ́os o segundo n ́umero na entrada h ́a um caractere de quebra de linha.</h3>
 
 <h3>Saída</h3>
+<h3>Se o primeiro n ́umero for par, o programa deve imprimir uma linha contendo a sequˆencia de n ́umeros pares,
+com um espa ̧co entre cada n ́umero par. Ap ́os o  ́ultimo n ́umero da serie, o programa deve imprimir um
+espa ̧co seguido de um caractere de quebra de linha (‘\n’). Se o primeiro n ́umero n ̃ao for par, o programa
+deve imprimir a mensagem O PRIMEIRO NUMERO NAO E PAR e logo em seguida, o caractere de
+quebra de linha.</h3>
 
