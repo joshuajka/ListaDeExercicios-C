@@ -2,7 +2,7 @@
 
 <h2>Introdução à programacão - Lista de Exercicios</h2>
 
-# EXEMPLOS DE ALGUNS EXERCÍCIOS RESOLVIDOS NESTE REPOSITÓRIO
+### EXEMPLOS DE ALGUNS EXERCÍCIOS RESOLVIDOS NESTE REPOSITÓRIO
 
 <h3>Exercício</h3>
 <h4> Resposta no arquivo GrausFahrenheitParaGrausCelsius.c </h4>
